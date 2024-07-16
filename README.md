@@ -1,6 +1,6 @@
-# android-fundamental
+# android-applied-ml
 
-Untuk kebutuhan Dokumentasi Kelas Android Fundamental di Dicoding
+Untuk kebutuhan Dokumentasi Kelas Penerapan Machine Learning untuk Android di Dicoding
 
 - MyCamera
 - TextRecognitionApp

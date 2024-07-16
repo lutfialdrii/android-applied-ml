@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "410742067539",
+    "project_id": "firstproject-3fd62",
+    "storage_bucket": "firstproject-3fd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410742067539:android:1be9f1693cf7dda7e9d1a6",
+        "android_client_info": {
+          "package_name": "com.dicoding.predictionfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410742067539-28rq54bmu1tddph76tl02f6dv0qpbco9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fdA4ye-9fqkwXESOpwnfz5K5sr9MUf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410742067539-28rq54bmu1tddph76tl02f6dv0qpbco9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410742067539-7epsreria28b9tsim8gcusmd9n950ebm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lutfiproject.cobafirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
